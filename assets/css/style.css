@@ -1,0 +1,20 @@
+.container {
+	text-align: center;
+}
+
+body {
+	background-image: url("../images/background.jpg");
+	background-size: cover;
+	color: #0080FF;
+}
+
+.questionContainer {
+	font-size: 22px;
+}
+
+.winsLosses {
+	position: absolute;
+	top: 50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+}
