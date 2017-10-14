@@ -1,0 +1,16 @@
+1.	Create HTML
+	Header
+	Timer
+	Question
+	Answers
+
+2. Create Javascript
+	a.	Timer to display in timerContainer
+	b. Question:
+		1.	Pick question from array of 10 questions
+		2.	Display answers for the question picked
+		3.	If the answer is correct, display "correct!"
+			& add +1 to the "CORRECT" count
+				If incorrect, display "wrong answer", and show the correct answer
+				& add +1 to the "INCORRECT" count
+		4.	On next click, go to the next question
